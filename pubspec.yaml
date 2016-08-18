@@ -1,0 +1,5 @@
+name: run_test
+description: A sample web application
+dependencies:
+  browser: any
+  test: '0.12.15+3'
